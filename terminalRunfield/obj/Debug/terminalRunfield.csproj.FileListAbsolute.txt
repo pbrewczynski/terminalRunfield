@@ -1,0 +1,6 @@
+c:\users\pawbreps\documents\terminalRunfield\terminalRunfield\bin\Debug\terminalRunfield.exe.config
+c:\users\pawbreps\documents\terminalRunfield\terminalRunfield\bin\Debug\terminalRunfield.exe
+c:\users\pawbreps\documents\terminalRunfield\terminalRunfield\bin\Debug\terminalRunfield.pdb
+c:\users\pawbreps\documents\terminalRunfield\terminalRunfield\obj\Debug\terminalRunfield.csprojResolveAssemblyReference.cache
+c:\users\pawbreps\documents\terminalRunfield\terminalRunfield\obj\Debug\terminalRunfield.exe
+c:\users\pawbreps\documents\terminalRunfield\terminalRunfield\obj\Debug\terminalRunfield.pdb
